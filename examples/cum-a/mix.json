@@ -1,0 +1,118 @@
+{
+ "voice": "voN.wav",
+ "music": "assets/music.ogg",
+ "music_start": 33,
+ "music_gain": 0.22,
+ "sfx": [
+  {
+   "file": "assets/hit.wav",
+   "t": 0.0,
+   "gain": 0.6
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 3.84,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 6.76,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 10.5,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 13.53,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 17.11,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 20.52,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 22.67,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 26.07,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 29.73,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 32.81,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 36.43,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 42.14,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/whoosh.wav",
+   "t": 45.05,
+   "gain": 0.35
+  },
+  {
+   "file": "assets/ding.wav",
+   "t": 12.82,
+   "gain": 0.3
+  },
+  {
+   "file": "assets/ding.wav",
+   "t": 13.7,
+   "gain": 0.3
+  },
+  {
+   "file": "assets/hit.wav",
+   "t": 29.85,
+   "gain": 0.6
+  },
+  {
+   "file": "assets/riser.wav",
+   "t": 19.39,
+   "gain": 0.4
+  },
+  {
+   "file": "assets/ding.wav",
+   "t": 37.15,
+   "gain": 0.3
+  },
+  {
+   "file": "assets/ding.wav",
+   "t": 38.75,
+   "gain": 0.3
+  },
+  {
+   "file": "assets/ding.wav",
+   "t": 39.85,
+   "gain": 0.3
+  },
+  {
+   "file": "assets/ding.wav",
+   "t": 41.05,
+   "gain": 0.3
+  }
+ ]
+}

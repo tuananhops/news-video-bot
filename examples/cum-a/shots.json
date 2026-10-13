@@ -1,0 +1,167 @@
+{
+ "_note": "Shot list rút gọn của video mẫu đã duyệt (bản gốc có thêm bản đồ, biểu đồ, checklist dựng riêng). Ảnh không kèm trong repo: tải lại theo CREDITS_LICENSES.md.",
+ "width": 720,
+ "height": 1280,
+ "fps": 30,
+ "font": "<đường dẫn font Be Vietnam Pro ExtraBold .ttf>",
+ "timeline": "timeline.json",
+ "captions": true,
+ "shots": [
+  {
+   "type": "image",
+   "src": "assets/virus.jpg",
+   "seg": 0,
+   "from": 0,
+   "to": 0.5,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: CDC (PD)",
+   "text": "CÚM A TĂNG ×7"
+  },
+  {
+   "type": "stat",
+   "seg": 0,
+   "from": 0.5,
+   "to": 1,
+   "big": "×7",
+   "sub": "106 → 779 ca · 5 tuần"
+  },
+  {
+   "type": "image",
+   "src": "assets/hanoi_traffic.jpg",
+   "seg": 1,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: Benjamin Arnold · CC BY 3.0 · Wikimedia"
+  },
+  {
+   "type": "image",
+   "src": "assets/dantri_crop.png",
+   "seg": 2,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Nguồn: Dân trí · 13/10/2026"
+  },
+  {
+   "type": "stat",
+   "seg": 3,
+   "from": 0,
+   "to": 1,
+   "big": "779 CA",
+   "sub": "tuần 40 · BV Nhi TƯ"
+  },
+  {
+   "type": "image",
+   "src": "assets/hangdau.jpg",
+   "seg": 4,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: Jakub Hałun · CC BY 4.0 · Wikimedia"
+  },
+  {
+   "type": "image",
+   "src": "assets/lab.jpg",
+   "seg": 5,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: CDC/James Gathany (PD)",
+   "text": "NHƯNG…"
+  },
+  {
+   "type": "image",
+   "src": "assets/virus.jpg",
+   "seg": 6,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: CDC (PD)"
+  },
+  {
+   "type": "image",
+   "src": "assets/hanoi_traffic.jpg",
+   "seg": 7,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: Benjamin Arnold · CC BY 3.0 · Wikimedia"
+  },
+  {
+   "type": "stat",
+   "seg": 8,
+   "from": 0,
+   "to": 1,
+   "big": "CHƯA\nĐẠT ĐỈNH",
+   "sub": "TS.BS BV Nhi TƯ"
+  },
+  {
+   "type": "image",
+   "src": "assets/lab.jpg",
+   "seg": 9,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: CDC/James Gathany (PD)"
+  },
+  {
+   "type": "image",
+   "src": "assets/hangdau.jpg",
+   "seg": 10,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: Jakub Hałun · CC BY 4.0 · Wikimedia"
+  },
+  {
+   "type": "image",
+   "src": "assets/wash.jpg",
+   "seg": 11,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: US Army (PD)"
+  },
+  {
+   "type": "image",
+   "src": "assets/vax.jpg",
+   "seg": 12,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: U.S. Navy (PD)"
+  },
+  {
+   "type": "image",
+   "src": "assets/wash.jpg",
+   "seg": 13,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: US Army (PD)"
+  },
+  {
+   "type": "image",
+   "src": "assets/virus.jpg",
+   "seg": 14,
+   "from": 0,
+   "to": 1,
+   "z0": 1.0,
+   "z1": 1.12,
+   "credit": "Ảnh: CDC (PD)"
+  }
+ ]
+}

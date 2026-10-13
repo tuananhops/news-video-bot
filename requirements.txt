@@ -1,0 +1,7 @@
+numpy
+pillow
+soundfile
+faster-whisper      # ASR kiểm giọng
+google-api-python-client  # chỉ cần cho drive_upload.py
+google-auth
+# OmniVoice: cài riêng theo scripts/README.md (torch + omnivoice)
